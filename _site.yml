@@ -1,11 +1,11 @@
-name: "Syapse_Scenario"
+name: "Syapse Scenario"
 output_dir: "docs"
 navbar:
   title: "Cars"
   left:
   - text: "Home"
    href: index.html
-  - text: "Syapse_Scenario"
+  - text: "Syapse Scenario"
    href: Syapse_mock_notebook.html
 output:
   html_document:
